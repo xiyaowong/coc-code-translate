@@ -1,6 +1,6 @@
 {
   "name": "coc-code-translate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "单词翻译插件",
   "author": "wongxy <xiyao.wong@foxmail.com>",
   "license": "MIT",
